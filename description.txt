@@ -1,0 +1,4 @@
+This is a random word game.
+There are two games inside.
+You have 3 chances available.
+There is score given.
